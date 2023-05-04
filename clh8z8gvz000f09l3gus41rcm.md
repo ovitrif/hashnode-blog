@@ -8,12 +8,12 @@ tags: introduction
 
 ---
 
-Nothing special here, just me testing out this blogging platform to assess its place to share [incredible thoughts](https://youtu.be/DSIaEziP8fA?t=38) on software development, 10x engineering, AI, bitcoin, and whatnot 🤷🏻‍♂️.
+Nothing special here, just me testing out this novel platform to assess whether it's a good place for sharing my [incredible thoughts](https://youtu.be/DSIaEziP8fA?t=38) on software development, 10x engineering, AI, bitcoin, and whatnot 🤷🏻‍♂️
 
-So far it looks promising, the focus is on the most important part of authoring: writing.
+So far it looks promising, as it is focused on the most important part for me: writing.
 
-I tried [WordPress.com](https://wordpress.com) first, mostly because I'm working at Automattic, but I was disappointed. I couldn't find the motivation to do anything more on that blog but to update my home page, to change the theme 10 times; yet I still ended up not happy with the choice 🤦🏻‍♂️. The dead blog is: [byovi.wordpress.com](https://byovi.wordpress.com/).
+Previously, I tried [WordPress.com](https://wordpress.com) mostly because I'm working at Automattic, but I was quite disappointed in it. I couldn't find the motivation to do anything relevant there aside from updating my home page and changing the theme countless times. You can take a look to see just how unpleasant the whole UX is, it took me a good while to come up with the current look on [byovi.wordpress.com](https://byovi.wordpress.com/). Frankly, I figured out that there's no good theme, they all have unfinished parts. Not to mention the ads 🤦🏻‍♂️.
 
-As you might have understood 🤔, I favor free speech over job security. Cool enough, Automattic is a company where people think out of echo chambers, which makes them pretty cool and fit for me. I couldn't work for any other type of company, nor could I survive in communism, they would kill me too early 😂.
+As you might have noticed I favor free speech over job security. Cool enough, Automattic is a company where people think out of echo chambers, which makes them pretty cool and a good fit for me. I couldn't work for any other type of company, nor could I survive in communism, they would kill me too early 😂
 
-Until next time: *🙋🏻‍♂️ Carry on, but please don't shitcoin…*
+Until next time, carry on 🙋🏻‍♂️! *But please don't shitcoin…*
